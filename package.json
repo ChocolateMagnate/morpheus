@@ -1,4 +1,11 @@
 {
+  "name": "Morpheus",
+  "version": "0.0.1",
+  "description": "",
+  "main": "Chrome/process.js",
+
+  "author": "Vladyslav Korol",
+  "license": "MIT",
   "dependencies": {
     "ts-node": "^10.9.1",
     "tsc": "^2.0.4",
